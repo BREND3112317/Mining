@@ -18,3 +18,6 @@
 	- SSL Port: 5555
 	- Username: Your Ethereum Classic Address
 	- Password: Leave empty
+	
+## 顯卡控制
+- [MSI afterburner](https://www.msi.com/Landing/afterburner)
